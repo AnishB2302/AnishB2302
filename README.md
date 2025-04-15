@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
-- 🔭 I’m interested in **Problem-solving, Fullstack Development, and Generative AI**
+- 🔭 I’m interested in **Problem-solving, Fullstack Development,& Generative AI**
 
-- 👯 I’m looking to collaborate on **DSA projects, MERN-based web apps, and GenAI-powered applications**
+- 👯 I’m looking to collaborate on **DSA projects, MERN-based web apps...**
 
 - 👨‍💻 All of my projects are available at [PortFolio](https://github.com/AnishB2302)
 
