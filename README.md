@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 
 - 🔭 I’m interested in **problem-solving, backend development, and generative AI**
 
