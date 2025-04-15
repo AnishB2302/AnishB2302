@@ -3,7 +3,7 @@
 - 👀 I’m interested in Problem-Solving, Fullstack Development, and Generative AI  
 - 🌱 I’m currently learning Advanced Data Structures & Algorithms in Java, and mastering the MERN stack  
 - 💞️ I’m looking to collaborate on DSA-heavy projects, MERN-based web apps, and GenAI-powered applications  
-- 📫 How to reach me: [Email Me](mailto:anishbhowmik2302@gmail.com?subject=Hello%20from%20GitHub&body=Hi%20Anish,%20) || [LinkedIn](https://www.linkedin.com/in/anish-bhowmik03))  
+- 📫 How to reach me: <a href="mailto:anishbhowmik2302@gmail.com">Email Me</a> || [LinkedIn](https://www.linkedin.com/in/anish-bhowmik03))  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I break things just to fix them better 😄  
 
