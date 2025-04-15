@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **DSA projects, MERN-based web apps, and GenAI-powered applications**
 
-- 👨‍💻 All of my projects are available at [www.portfolio.com](https://github.com/AnishB2302))
+- 👨‍💻 All of my projects are available at [PortFolio](https://github.com/AnishB2302)
 
 - 📫 How to reach me **anish.bhowmik.work@gmail.com**
 
